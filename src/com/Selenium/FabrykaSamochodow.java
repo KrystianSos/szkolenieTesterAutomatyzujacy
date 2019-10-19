@@ -39,7 +39,7 @@ class BMW implements Samochod{
 class Audi implements Samochod{
     int cena;
     String kolor;
-    int maxPredkosc = 200;
+    int maxPredkosc = 300;
 
 //    public Audi(int cena, String kolor) {
 //        this.cena = cena;
